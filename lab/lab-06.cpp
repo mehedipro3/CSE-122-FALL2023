@@ -1,6 +1,5 @@
 //bit++
 
-
 #include <iostream>
 #include<string>
 
