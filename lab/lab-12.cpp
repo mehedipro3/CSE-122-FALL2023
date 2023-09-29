@@ -1,4 +1,4 @@
-//Stones on the Table
+// Stones on the Table
 
 
 #include<bits/stdc++.h>
