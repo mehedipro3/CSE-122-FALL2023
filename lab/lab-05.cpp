@@ -1,4 +1,4 @@
-// Next Round
+// Domino piling
 
 #include <iostream>
 
