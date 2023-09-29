@@ -1,4 +1,4 @@
-//Word Capitalization
+// Word Capitalization
 
 #include<bits/stdc++.h>
 using namespace std;
